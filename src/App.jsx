@@ -22,13 +22,6 @@ const App = () => {
         <Route path='trainers' element={<Trainers />}/>
         <Route path='*' element={<NotFound />}/>
       </Routes>
-      {/* <Home />
-      <About />
-      <Contact />
-      <Gallery />
-      <Plans />
-      <Trainers />
-      <NotFound /> */}
     </BrowserRouter>
   )
 }
