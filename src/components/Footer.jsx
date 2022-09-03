@@ -39,8 +39,8 @@ const Footer = () => {
             </article>
             <article>
                 <h4>Get In Touch</h4>
-                <Link to="/contact">contact Us</Link>
-                <Link to="/s">Support</Link>
+                <Link to="/contact">Contact Us</Link>
+                <Link to="/">Support</Link>
             </article>
         </div>
         <div className="footer__copyright">
