@@ -1,7 +1,7 @@
 ### Hello :wave:
 # Fitness Website Clone
 
-This is a simple fitness website clone. Find it live at [fitness-webisite-clone]()
+This is a simple fitness website clone. Find it live at [fitness-webisite-clone](https://tish254.github.io/fitness-website-clone/#/trainers)
 
 ## Preview Home
 
